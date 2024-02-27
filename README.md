@@ -23,4 +23,5 @@ Difference between 24/7 and hybrid 24/7:
 Hybrid 24/7 - Bot leaves the channel if no one is listening then joins if first listener joins again.
 
 You can always suggest something to add and you'll get the newest update if there is any. The price is negotiable.
+
 ![The Bot in Voice Channel](https://i.imgur.com/2gBcOt6.png)
